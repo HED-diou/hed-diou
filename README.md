@@ -1,6 +1,6 @@
 # 42_network_badge
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=hed-diou)](https://github.com/mohouyizme/1337-readme)
+[![hed-diou's 42 stats](https://badge.mediaplus.ma/colorfulwaves/hed-diou)](https://github.com/oakoudad/badge42)
 
 <a href="https://github.com/hed-diou?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hed-diou&theme=dark"/>
