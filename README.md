@@ -5,9 +5,6 @@
 </p>
 
 ### 🚀 Entrepreneur & Full-Stack Developer
-* 🛠 Fondateur de **Deviz.ma** | Transformation digitale.
-* 🌍 En train de bâtir **TripLite** & des solutions pour les auto-entrepreneurs (**AE Connect**).
-* 🧪 Passionné par l'OCR (**ScanPro**) et l'affichage dynamique de données.
 
 ---
 
